@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Practice_1</string>
+    <string-array name="list_country">
+        <item> Viet nam </item>
+        <item> Lao </item>
+        <item> Campuchia </item>
+        <item> Indo </item>
+
+
+    </string-array>
+
+    <string-array name="list_univer">
+        <item> PTIT </item>
+        <item> HUST </item>
+        <item> VNUA </item>
+
+    </string-array>
+
+    <string name="Your_text"> This is your string.
+   This is the second line of your string.\n\n Third line of your string.</string>
+</resources>
